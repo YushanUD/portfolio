@@ -3,7 +3,7 @@
 **Business Analytics student · Future data analyst**
 
 <!-- Mission 3: put your photo on the line below. -->
-(Your photo goes here.)
+<img width="200" alt="my-photo" src="https://github.com/user-attachments/assets/92928807-10fd-4416-8e2d-a2753cf108b2" />
 
 ## About me
 
