@@ -10,18 +10,6 @@
 <!-- Mission 1: replace the line below with 2 or 3 sentences about you. -->
 I study business analytics and I love turning messy spreadsheets into clear answers. Outside class I play tennis and try every coffee shop in town. One day I'd like to work as a data analyst in sports or retail.
 
-## My skills
-
-<!-- Mission 1: change each number. 1 = just starting, 5 = expert. -->
-
-| Skill | My level (1–5) |
-| --- | --- |
-| Excel | 4 |
-| Python | 2 |
-| Data visualization | 2 |
-| Machine learning | 2 |
-| Presenting to a team | 3 |
-
 ## My projects
 
 <!-- Mission 2: this link works once you create projects/project-1.md -->
