@@ -1,6 +1,6 @@
-# Hi, I'm (your name) 👋
+# Hi, I'm Demo 👋
 
-**(Your major) student · Future data analyst**
+**Business Analytics student · Future data analyst**
 
 <!-- Mission 3: put your photo on the line below. -->
 (Your photo goes here.)
@@ -8,7 +8,7 @@
 ## About me
 
 <!-- Mission 1: replace the line below with 2 or 3 sentences about you. -->
-(Write two or three sentences about yourself: what you study, what you enjoy, and the job you would like one day.)
+I study business analytics and I love turning messy spreadsheets into clear answers. Outside class I play tennis and try every coffee shop in town. One day I'd like to work as a data analyst in sports or retail.
 
 ## My skills
 
@@ -16,10 +16,10 @@
 
 | Skill | My level (1–5) |
 | --- | --- |
-| Excel | 3 |
-| Python | 1 |
+| Excel | 4 |
+| Python | 2 |
 | Data visualization | 2 |
-| Machine learning | 1 |
+| Machine learning | 2 |
 | Presenting to a team | 3 |
 
 ## My projects
